@@ -1,4 +1,6 @@
-http_port: 8080
+application:
+  http_port: 8080
+
 database:
   host: "localhost"
   port: 5432
